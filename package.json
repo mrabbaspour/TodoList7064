@@ -1,0 +1,19 @@
+{
+  "name": "typescript-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sweetalert2": "^11.4.9"
+  }
+}
